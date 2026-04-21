@@ -12,49 +12,49 @@ v1.0/
 │   ├── Paper_IMG_final.m        # Plotting code
 │   ├── Dry 
 │   │   ├── SAXS
-│   │   ├── WAXS
+│   │   └── WAXS
 │   ├── Hydrated 
 │   │   ├── SAXS
-│   │   ├── WAXS
+│   └── └── WAXS
 ├── Figure 2.zip/
 │   ├── Dry 
 │   │   ├── LIP-68C-DRY
 │   │   ├── LIP-45C-DRY
-│   │   ├── LIP-32C-DRY
+│   │   └── LIP-32C-DRY
 │   ├── Hydrated 
 │   │   ├── LIP-68C-HYD
 │   │   ├── LIP-45C-HYD
-│   │   ├── LIP-32C-HYD
+│   └── └── LIP-32C-HYD
 ├── Figure 3.zip/
 │   ├── PSI2023_analysis.py         # Plotting code
 │   ├── SC_Scan_S00401 
 │   ├── SC_Scan_S00401_Integrated 
-│   ├── SC_Scan_S00401_DetectorIMG
+│   └── SC_Scan_S00401_DetectorIMG
 ├── Figure 4.zip/
 │   ├── WatterDipping_SCfilm
 │   │   ├── Time_resolved_SC.m      # Plotting code
-│   │   ├── TimeResolvedSeries
+│   │   └── TimeResolvedSeries
 │   ├── WatterDipping_DPPCfilm 
 │   │   ├── Time_resolved_DPPC.m    # Plotting code
-│   │   ├── TimeResolvedSeries
+│   └── └── TimeResolvedSeries
 ├── Figure S1.zip/
 │   ├── Intact_SC
 │   ├── Metod_I
 │   ├── Metod_II
-│   ├── Metod_III
+│   └── Metod_III
 ├── Figure S2.zip/
 │   ├── Extracted_SCLipids
 │   ├── Isolated_Corneocyte
-│   ├── Intact_SC
+│   └── Intact_SC
 ├── Figure S3.zip/
-│   ├── LIP-68-DRY
+│   └── LIP-68-DRY
 ├── Figure S4.zip/
 │   ├── SClipids_at23C
 │   ├── SClipids_at42C
-│   ├── SClipids_at70C
+│   └── SClipids_at70C
 ├── Figure S5.zip/
-│   ├── plotDLS.m
-│   ├── DLS_SClipids.xlsx
+│   ├── plotDLS.m                   # Plotting code
+│   └── DLS_SClipids.xlsx
 ├── Figure S7.zip/
 │   ├── Dry
 └── └── Hydrated
